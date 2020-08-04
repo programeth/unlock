@@ -34,7 +34,7 @@
     "ganache-cli": "6.9.1",
     "hardlydifficult-eth": "1.1.1",
     "hardlydifficult-ethereum-contracts": "0.11.1",
-    "jest": "25.5.4",
+    "jest": "26.2.2",
     "lint-staged": "10.2.11",
     "netlify-cli": "2.57.0",
     "prettier": "2.0.5",
